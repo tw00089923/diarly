@@ -1,0 +1,14 @@
+{
+	"modeal":"xPhone",
+	"color":"white",
+	"price":10000,
+	"teset":{},
+	"vendor":{
+		"name":"Howard",
+		"website":"http://www.google.com",
+		"tel":["0963570263","0915509350"]
+		}
+
+
+
+}
