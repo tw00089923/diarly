@@ -1,0 +1,22 @@
+{
+  "name": "howard",
+  "version": "1.0.0",
+  "description": "Do nodejs everyday",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tw00089923/diarly.git"
+  },
+  "keywords": [
+    "s9224132"
+  ],
+  "author": "howard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tw00089923/diarly/issues"
+  },
+  "homepage": "https://github.com/tw00089923/diarly#readme"
+}
