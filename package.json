@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/tw00089923/diarly/issues"
   },
-  "homepage": "https://github.com/tw00089923/diarly#readme"
+  "homepage": "https://github.com/tw00089923/diarly#readme",
+  "dependencies": {
+    "moment": "^2.10.6"
+  }
 }
